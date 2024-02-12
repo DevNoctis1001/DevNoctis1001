@@ -61,7 +61,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
   </a>
 </p>
 
-<h3 align='left'> AI Tech Stack </h3> 
+<h3 align='left'> AI & Data Science Tech Stack </h3> 
 
 - Fields
 <div align="left">
@@ -70,12 +70,14 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
  <img src="https://cdn-icons-png.flaticon.com/128/10328/10328854.png" width="50" height="50"/>
  <img src="https://cdn-icons-png.flaticon.com/128/13434/13434913.png" width="50" height="50"/>
  <img src="https://cdn-icons-png.flaticon.com/128/2103/2103787.png" width="50" height="50"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/9074/9074033.png" width="50" height="50"/>
 </div>
 
 - Libraries and Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,ai" />
+    <img src="https://cdn-icons-png.flaticon.com/128/8660/8660342.png" width="50" height="50"/>
   </a>
 </p>
 <!--
