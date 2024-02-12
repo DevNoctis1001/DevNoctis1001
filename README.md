@@ -1,4 +1,4 @@
-![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/0227ebe0-0a62-4969-a924-9c119506619e)- 👋 Hi, welcome to my profile. Here's a little bit about me.
+- 👋 Hi, welcome to my profile. Here's a little bit about me.
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="16%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="16%" style="display:inline;">
 
@@ -61,7 +61,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
   </a>
 </p>
 
-<h4 align='left'> AI Tech Stack </h4> <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="10" height="10"/>
+<h4 align='left'> AI Tech Stack </h4> <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50"/>
 
 
 <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" />
