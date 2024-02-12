@@ -19,6 +19,8 @@ I love exploring new things in the software world. Finding patterns📈 in a wor
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="center"> My Programing Language </h3>
 
 <div align="center">
