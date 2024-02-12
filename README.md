@@ -41,6 +41,8 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="60" />
 </div>
 
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="16%" style="display:inline;">
+
  <h3 align="left"> Web Tech Stack </h3>
  
  - Backend
