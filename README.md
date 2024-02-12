@@ -19,7 +19,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
 
  <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <h4>I love collaboration.</h4> 
+  <h3>I love collaboration.</h3> 
  </div>
 
 <br>
