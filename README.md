@@ -18,7 +18,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
 - 👬  I'm always learning from everyone else.
 
 
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> I love collaboration.
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I love collaboration.
 
 
 <br>
