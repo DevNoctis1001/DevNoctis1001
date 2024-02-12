@@ -73,12 +73,11 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
 </div>
 
 - Libraries and Frameworks
-<div align="left">
- <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50"/>
- <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" width="50" height="50"/>
- <img src="https://cdn-icons-png.flaticon.com/128/10328/10328854.png" width="50" height="50"/>
- <img src="https://iconscout.com/3d-illustration/yolo-9587037" width="50" height="50"/>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,ai" />
+  </a>
+</p>
 <!--
 **DevNoctis1001/DevNoctis1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
