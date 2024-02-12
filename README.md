@@ -60,9 +60,9 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
-
-<h3 align='left'> AI Tech Stack </h3> <img align="right" src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50"/>
-
+<div align="left">
+ <h3 align='left'> AI Tech Stack </h3> <img align="right" src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50"/>
+</div>
 
 <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" />
 
