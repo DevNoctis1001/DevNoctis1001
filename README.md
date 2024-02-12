@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to my profile. Here's a little bit about me.
+![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/0227ebe0-0a62-4969-a924-9c119506619e)- 👋 Hi, welcome to my profile. Here's a little bit about me.
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="16%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="16%" style="display:inline;">
 
@@ -38,7 +38,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
- <h3 align="left">Web Tech Stack </h3>
+ - Web Tech Stack 
  
  - Backend
 <p align="left">
@@ -61,7 +61,8 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
   </a>
 </p>
 
-<h3 align="left">AI Tech Stack </h3>
+- AI Tech Stack ![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/7e46b6e5-b113-46e7-8aee-aa9458baf4a4)
+
 
 <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" />
 
