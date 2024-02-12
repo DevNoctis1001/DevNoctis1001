@@ -38,7 +38,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
- <h4 align="left"> Web Tech Stack </h4>
+ <h3 align="left"> Web Tech Stack </h3>
  
  - Backend
 <p align="left">
@@ -61,7 +61,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
   </a>
 </p>
 
-<h4 align='left'> AI Tech Stack </h4> <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50"/>
+<h3 align='left'> AI Tech Stack </h3> <img align="right" src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50"/>
 
 
 <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" />
