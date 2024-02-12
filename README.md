@@ -7,7 +7,21 @@
 Passionate and Experienced Software Engineer || AI & Machine Learning || Web & Mobile Development || Data Science || Blockchain
 -----------------------------------------------------------------------------------------------------------------------------
 
-<p align="right">I love exploring new things in the software world. Finding patterns in a world of extreme data and expressing them in beautiful graphics brings me joy. I am fascinated by the idea of giving machines human intelligence to create great works of art. Developing smart and useful websites to provide people with an interactive experience of the internet is something I enjoy. My strengths lie in creating artistic and flawless designs that draw people into the magical world of the internet. In the vast community of blockchain, I strive to create a more transparent and secure cryptocurrency space.</p>
+<p align="center">I love exploring new things in the software world. Finding patterns in a world of extreme data and expressing them in beautiful graphics brings me joy. I am fascinated by the idea of giving machines human intelligence to create great works of art. Developing smart and useful websites to provide people with an interactive experience of the internet is something I enjoy. My strengths lie in creating artistic and flawless designs that draw people into the magical world of the internet. In the vast community of blockchain, I strive to create a more transparent and secure cryptocurrency space.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
  
 
