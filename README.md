@@ -15,7 +15,7 @@ I love exploring new things in the software world. Finding patterns📈 in a wor
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-#### My Programing Language
+<p align="center">  #### My Programing Language </p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
