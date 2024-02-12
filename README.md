@@ -38,7 +38,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
- - Web Tech Stack 
+ <h4 align="left"> Web Tech Stack </h4>
  
  - Backend
 <p align="left">
@@ -61,7 +61,7 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
   </a>
 </p>
 
-- AI Tech Stack ![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/7e46b6e5-b113-46e7-8aee-aa9458baf4a4)
+<h4 align='left'> AI Tech Stack </h4> <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="10" height="10"/>
 
 
 <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" />
