@@ -7,9 +7,9 @@
 Passionate and Experienced Software Engineer || AI & Machine Learning || Web & Mobile Development || Data Science || Blockchain
 -----------------------------------------------------------------------------------------------------------------------------
 
-I love exploring new things in the software world. Finding patterns📈 in a world of extreme data and expressing them in beautiful graphics brings me joy. I am fascinated by the idea of giving machines human intelligence🤖 to create great works of art. Developing smart and useful websites to provide people with an interactive experience of the internet is something I enjoy. My strengths lie in creating artistic and flawless designs that draw people into the magical world of the internet. In the vast community of blockchain, I strive to create a more transparent and secure cryptocurrency space⚖.
+<div align="center" width="65%">I love exploring new things in the software world. Finding patterns📈 in a world of extreme data and expressing them in beautiful graphics brings me joy. I am fascinated by the idea of giving machines human intelligence🤖 to create great works of art. Developing smart and useful websites to provide people with an interactive experience of the internet is something I enjoy. My strengths lie in creating artistic and flawless designs that draw people into the magical world of the internet. In the vast community of blockchain, I strive to create a more transparent and secure cryptocurrency space⚖.</div>
 
-🤝  I'm open to collaborating on AI/ML & Full Stack### Skills
+<h3 align="center">🤝  I am open to collaboration on all computer science skills.</h3>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="DevNoctis1001" /> 
@@ -17,7 +17,7 @@ I love exploring new things in the software world. Finding patterns📈 in a wor
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<h3 align="center"> My Programing Language </h3>
+<h3 align="center"> My Programing Language <h3 align="center">
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
