@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, welcome to my profile. Here's a little bit about me.
+
+### 💪 &nbsp;About Me
+
+Passionate and Experienced Software Engineer || AI & Machine Learning || Web & Mobile Development || Data Science || Blockchain
+-------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **DevNoctis1001/DevNoctis1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
