@@ -68,21 +68,50 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
 
 - Fields
 <div align="left">
- <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50"/>
- <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" width="50" height="50"/>
- <img src="https://cdn-icons-png.flaticon.com/128/10328/10328854.png" width="50" height="50"/>
- <img src="https://cdn-icons-png.flaticon.com/128/13434/13434913.png" width="50" height="50"/>
- <img src="https://cdn-icons-png.flaticon.com/128/2103/2103787.png" width="50" height="50"/>
- <img src="https://cdn-icons-png.flaticon.com/128/9074/9074033.png" width="50" height="50"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50" alt="Machine Learning" />
+ <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" width="50" height="50" alt="Natural Language Processing" />
+ <img src="https://cdn-icons-png.flaticon.com/128/10328/10328854.png" width="50" height="50" alt="Computer Vision" />
+ <img src="https://cdn-icons-png.flaticon.com/128/13434/13434913.png" width="50" height="50" alt="Generative AI" />
+ <img src="https://cdn-icons-png.flaticon.com/128/2103/2103787.png" width="50" height="50" alt="Deep Learning" />
+ <img src="https://cdn-icons-png.flaticon.com/128/9074/9074033.png" width="50" height="50" alt="Data Science" />
 </div>
 
 - Libraries and Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,ai" />
-    <img src="https://cdn-icons-png.flaticon.com/128/8660/8660342.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/8660/8660342.png" width="50" height="50" alt="Data Visualization" />
   </a>
 </p>
+
+<h3 align='left'> Blockchain Teck Stack </h3> 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+    <img src="https://cdn-icons-png.flaticon.com/128/6001/6001527.png" width="50" height="50" alt="Solana" />
+    <img src="https://cdn-icons-png.flaticon.com/128/6228/6228867.png" width="50" height="50" alt="NFT" />
+    <img src="https://cdn-icons-png.flaticon.com/128/6614/6614837.png" width="50" height="50" alt="Smart Contract" />
+  </a>
+</p>
+
+<h3 align='left'> Cloud Service </h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+<h3 align='left'> Development Tools </h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
 <!--
 **DevNoctis1001/DevNoctis1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
