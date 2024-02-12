@@ -61,7 +61,9 @@ Passionate and Experienced Software Engineer || AI & Machine Learning || Web & M
   </a>
 </p>
 
+<h3 align="left">AI Tech Stack </h3>
 
+<img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" />
 
 <!--
 **DevNoctis1001/DevNoctis1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
