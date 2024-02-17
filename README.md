@@ -48,6 +48,26 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" height="700" style="display:inline;">
 
+<h3 align='left'> AI & Data Science Tech Stack </h3> 
+
+- Fields
+<div align="left">
+ <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50" alt="Machine Learning" />
+ <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" width="50" height="50" alt="Natural Language Processing" />
+ <img src="https://cdn-icons-png.flaticon.com/128/10328/10328854.png" width="50" height="50" alt="Computer Vision" />
+ <img src="https://cdn-icons-png.flaticon.com/128/13434/13434913.png" width="50" height="50" alt="Generative AI" />
+ <img src="https://cdn-icons-png.flaticon.com/128/2103/2103787.png" width="50" height="50" alt="Deep Learning" />
+ <img src="https://cdn-icons-png.flaticon.com/128/9074/9074033.png" width="50" height="50" alt="Data Science" />
+</div>
+
+- Libraries and Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,ai" />
+    <img src="https://cdn-icons-png.flaticon.com/128/8660/8660342.png" width="50" height="50" alt="Data Visualization" />
+  </a>
+</p>
+
  <h3 align="left"> Web Tech Stack </h3>
  
  - Backend
@@ -68,26 +88,6 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-<h3 align='left'> AI & Data Science Tech Stack </h3> 
-
-- Fields
-<div align="left">
- <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50" alt="Machine Learning" />
- <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" width="50" height="50" alt="Natural Language Processing" />
- <img src="https://cdn-icons-png.flaticon.com/128/10328/10328854.png" width="50" height="50" alt="Computer Vision" />
- <img src="https://cdn-icons-png.flaticon.com/128/13434/13434913.png" width="50" height="50" alt="Generative AI" />
- <img src="https://cdn-icons-png.flaticon.com/128/2103/2103787.png" width="50" height="50" alt="Deep Learning" />
- <img src="https://cdn-icons-png.flaticon.com/128/9074/9074033.png" width="50" height="50" alt="Data Science" />
-</div>
-
-- Libraries and Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,ai" />
-    <img src="https://cdn-icons-png.flaticon.com/128/8660/8660342.png" width="50" height="50" alt="Data Visualization" />
   </a>
 </p>
 
