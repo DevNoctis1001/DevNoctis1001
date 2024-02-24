@@ -51,7 +51,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <h3 align='left'> AI & Data Science Tech Stack </h3> 
 
-![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/8878ddf0-69bc-43b3-a3dc-59e7a1f3a977) <h3 align='left'> Data Analysis </h3>
+<h3 align='left'> Data Analysis </h3>  ![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/8878ddf0-69bc-43b3-a3dc-59e7a1f3a977) 
 
 - Fields
 <div align="left">
