@@ -6,7 +6,7 @@
   
 ## 💪 &nbsp;About Me 
 
-Passionate and Experienced Software Engineer || Data Science || AI & Machine Learning || Web & Mobile Development || Blockchain
+Passionate and Experienced Software Engineer || Data Science || AI & Machine Learning || Web & Mobile Development 
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">Experienced data scientist with a history of working closely with cross-functional teams to guarantee the precision andreliability of data and insights. </p> 
@@ -36,6 +36,8 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+
 <h2 align="center">👩‍💻 My Programming Language 👩‍💻</h2>
 
 <div align="center">
@@ -44,6 +46,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
   <img src="https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/8f240b69-cb8f-4856-9a4d-cbd3812829ee" alt="Java" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/languages/php.svg" alt="PHP" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/html.svg" alt="HTML" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/css3.svg" alt="CSS3" />
 </div>
@@ -72,6 +75,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
     <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="plotly" />
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="Mysql" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" />
     <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
@@ -94,45 +98,14 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="Bootstrap" />
-
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
 </div>
- 
- - Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
+<br><br>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-<h3 align='left'> Blockchain Teck Stack </h3> 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
-    <img src="https://cdn-icons-png.flaticon.com/128/6001/6001527.png" width="50" height="50" alt="Solana" />
-    <img src="https://cdn-icons-png.flaticon.com/128/6228/6228867.png" width="50" height="50" alt="NFT" />
-    <img src="https://cdn-icons-png.flaticon.com/128/6614/6614837.png" width="50" height="50" alt="Smart Contract" />
-  </a>
-</p>
-
-<h3 align='left'> Cloud Service </h3>
+<h3 align='left'>☁ Cloud Service ☁</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -140,13 +113,16 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
   </a>
 </p>
 
-<h3 align='left'> Development Tools </h3>
+<br><br>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
+<h3 align='left'>🛠 Development Tools 🛠</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white" alt="Looker" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
+</div>
 
 <br/>
 
