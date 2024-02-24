@@ -59,6 +59,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/r.svg" alt="R"/>
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
+  ![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/8f240b69-cb8f-4856-9a4d-cbd3812829ee)
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/html.svg" alt="HTML" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/css3.svg" alt="CSS3" />
 </div>
