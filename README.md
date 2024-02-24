@@ -51,7 +51,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <h3 align='left'> AI & Data Science Tech Stack </h3> 
 
-<img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" width="50" height="50" alt="Machine Learning" />
+<img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" width="30" height="120" alt="Machine Learning" />
 
 - Fields
 <div align="left">
