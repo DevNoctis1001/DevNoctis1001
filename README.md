@@ -36,53 +36,64 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center"> My Programming Language </h2>
+<h2 align="center">👩‍💻 My Programming Language </h2>
 
 <div align="center">
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/python.svg" alt="Python" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/r.svg" alt="R"/>
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
+  <img src="https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/8f240b69-cb8f-4856-9a4d-cbd3812829ee" alt="Java" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/html.svg" alt="HTML" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/css3.svg" alt="CSS3" />
 </div>
-
 
 <br><br>
 
-<h2 align='center'>🏆 My Tech Skills 🏆</h2> 
-
-
+<h2 align='center'>🏆 My Tech fields 🏆</h2> 
 
 <div align="center">
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/python.svg" alt="Python" />
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/r.svg" alt="R"/>
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
-  ![image](https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/8f240b69-cb8f-4856-9a4d-cbd3812829ee)
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/html.svg" alt="HTML" />
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/css3.svg" alt="CSS3" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/datascience.svg" alt="Data Science" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/ai.svg" alt="AI"/>
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/web.svg" alt="Web" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/mobile.svg" alt="Mobile" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/cloud.svg" alt="Cloud" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/security.svg" alt="Security" />
 </div>
     
-- Fields
+<h2 align='center'>🔥 Libraries and Frameworks 🔥</h2> 
+
 <div align="left">
- <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50" alt="Machine Learning" />
- <img src="https://cdn-icons-png.flaticon.com/128/9831/9831298.png" width="50" height="50" alt="Natural Language Processing" />
- <img src="https://cdn-icons-png.flaticon.com/128/10328/10328854.png" width="50" height="50" alt="Computer Vision" />
- <img src="https://cdn-icons-png.flaticon.com/128/13434/13434913.png" width="50" height="50" alt="Generative AI" />
- <img src="https://cdn-icons-png.flaticon.com/128/2103/2103787.png" width="50" height="50" alt="Deep Learning" />
- <img src="https://cdn-icons-png.flaticon.com/128/9074/9074033.png" width="50" height="50" alt="Data Science" />
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy"/>
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="plotly" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="Mysql" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" />
+    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white" alt="Scipy" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black" alt="Hadoop" />
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="Spark" />
 </div>
 
-- Libraries and Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,ai" />
-    <img src="https://cdn-icons-png.flaticon.com/128/8660/8660342.png" width="50" height="50" alt="Data Visualization" />
-  </a>
-</p>
+<h2 align='center'>🖥 Web Teck Stack 🖥</h2> 
 
- <h3 align="left"> Web Tech Stack </h3>
+<div align="center">
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/frameworks/react.svg" alt="React" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/frameworks/nodejs.svg" alt="NodeJS"/>
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" />
+  <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/frameworks/vue.svg" alt="Vue" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="Bootstrap" />
+
+</div>
  
  - Backend
 <p align="left">
