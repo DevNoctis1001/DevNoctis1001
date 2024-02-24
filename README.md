@@ -6,7 +6,7 @@
   
 ## 💪 About Me 
 
-Passionate and Experienced Software Engineer || Data Science || AI & Machine Learning || Web & Mobile Development 
+  Passionate and Experienced Software Engineer || Data Science || AI & Machine Learning || Web & Mobile Development 
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">Experienced data scientist with a history of working closely with cross-functional teams to guarantee the precision andreliability of data and insights. </p> 
