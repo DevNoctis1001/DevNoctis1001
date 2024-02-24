@@ -18,9 +18,6 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 - 🤝  I am open to collaboration on all computer and data science skills.
 
 
-- 💖  I love #### AI.
-
-
 - 👬  I'm always learning from everyone else.
 
 
@@ -47,7 +44,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/html.svg" alt="HTML" />
-  <img src="[https://techstack-generator.vercel.app/mysql-icon.svg](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" height="700" style="display:inline;">
