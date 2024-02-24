@@ -6,7 +6,8 @@
   
 ## 💪 About Me 
 
-  Passionate and Experienced Software Engineer || Data Science || AI & Machine Learning || Web & Mobile Development 
+  <h2 align="center"> Passionate and Experienced Software Engineer </h2>
+  <h3 align="center"> Data Science || AI & Machine Learning || Web & Mobile Development </h3> 
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">Experienced data scientist with a history of working closely with cross-functional teams to guarantee the precision andreliability of data and insights. </p> 
@@ -105,7 +106,7 @@
 
 <br><br>
 
-<h3 align='left'>☁ Cloud Service ☁</h3>
+<h3 align='center'>☁ Cloud Service ☁</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -115,7 +116,7 @@
 
 <br><br>
 
-<h3 align='left'>🛠 Development Tools 🛠</h3>
+<h3 align='center'>🛠 Development Tools 🛠</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI" />
