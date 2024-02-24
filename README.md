@@ -9,12 +9,16 @@
 Passionate and Experienced Software Engineer || Data Science || AI & Machine Learning || Web & Mobile Development || Blockchain
 -----------------------------------------------------------------------------------------------------------------------------
 
-<p align="left">I love exploring new things in the software world. Finding patterns📈 in a world of extreme data and expressing them in beautiful graphics brings me joy. I am fascinated by the idea of giving machines human intelligence🤖 to create great works of art. Developing smart and useful websites to provide people with an interactive experience of the internet is something I enjoy. My strengths lie in creating artistic and flawless designs that draw people into the magical world of the internet. In the vast community of blockchain, I strive to create a more transparent and secure cryptocurrency space⚖.</p>
+<p align="left">Experienced data scientist with a history of working closely with cross-functional teams to guarantee the precision andreliability of data and insights. </p> 
+<p align="left">I love exploring new things in the software world. Finding patterns📈 in a world of extreme data and expressing them in beautiful graphics brings me joy. Proficient in spearheading predictive modeling projects and delivering practical insights toenhance business efficiency and achieve strategic objectives. Also, Developing smart and useful websites to provide people with an interactive experience of the internet is something I enjoy.  In the vast community of blockchain, I strive to create a more transparent and secure cryptocurrency space using data science technologies.⚖</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🤝  I am open to collaboration on all computer science skills.
+- 🤝  I am open to collaboration on all computer and data science skills.
+
+
+- 💖  I love #### AI.
 
 
 - 👬  I'm always learning from everyone else.
@@ -38,7 +42,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 <h3 align="center"> My Programing Language </h3>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/python.svg" alt="icon" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
