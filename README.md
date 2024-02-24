@@ -36,7 +36,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center"> My Programming Language </h3>
+<h2 align="center"> My Programming Language </h2>
 
 <div align="center">
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/python.svg" alt="Python" />
@@ -49,12 +49,25 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" height="700" style="display:inline;">
 
-<h3 align='left'> AI & Data Science Tech Stack </h3> 
+<h2 align='center'>🏆 My Skills 🏆</h2> 
 
-<div style={{display: "flex", align-items: "center"}}> 
-    <h2 align='left'> Data Analysis <span> <img src="https://github.com/DevNoctis1001/DevNoctis1001/assets/148486194/8878ddf0-69bc-43b3-a3dc-59e7a1f3a977" width="50" height="50" alt="Machine Learning" /> </span> </h3> 
-</div>
+<h3 align='left'>🌎 Data Collection & Cleaning </h3> 
+    <p align="left">Transforming raw data into valuable insights, ensuring pristine datasets for impactful analysis</p>
 
+<h3 align='left'>📈 Data Analysis </h3> 
+    <p align="left">Empowering insights through expert Data Analysis services, unlocking strategic value from raw data</p>
+
+<h3 align='left'>📊 Data Visualization </h3> 
+    <p align="left">Bringing data to life through captivating Data Visualization services, turning complex information into clear, actionable visuals </p>
+
+<h3 align='left'> 🧿 Predictive Modeling </h3> 
+    <p align="left">Driving informed decisions with cutting-edge Predictive Modeling services, forecasting outcomes with precision and accuracy </p>
+
+<h3 align='left'> 🤖 Machine Learning & Deep Learning </h3> 
+    <p align="left">Revolutionizing data insights with innovative ML & DL services, enabling predictive analytics and intelligent decision-making </p>
+
+<h3 align='left'> 👨 Natural Language Processing </h3> 
+    <p align="left"> Empowering data-driven insights with advanced Natural Language Processing services, unraveling the power of language for impactful analysis </p>
 - Fields
 <div align="left">
  <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50" alt="Machine Learning" />
