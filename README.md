@@ -22,7 +22,6 @@
 - 👬  I'm always learning from everyone else.
 
 
-
  <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <h3>I love collaboration.</h3> 
@@ -106,9 +105,9 @@
 
 <br><br>
 
-<h3 align='center'>☁ Cloud Service ☁</h3>
+<h2 align='center'>☁ Cloud Service ☁</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
   </a>
@@ -116,7 +115,7 @@
 
 <br><br>
 
-<h3 align='center'>🛠 Development Tools 🛠</h3>
+<h2 align='center'>🛠 Development Tools 🛠</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI" />
