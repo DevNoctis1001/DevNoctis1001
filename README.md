@@ -36,7 +36,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <h2 align="center">👩‍💻 My Programming Language 👩‍💻</h2>
 
@@ -88,6 +88,8 @@
     <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white" alt="MLflow" />
 </div>
 
+<br><br>
+
 <h2 align='center'>🖥 Web Teck Stack 🖥</h2> 
 
 <div align="center">
@@ -96,7 +98,7 @@
   <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" />
   <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/frameworks/vue.svg" alt="Vue" />
 </div>
-<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
