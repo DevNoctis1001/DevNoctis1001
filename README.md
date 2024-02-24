@@ -36,7 +36,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">👩‍💻 My Programming Language </h2>
+<h2 align="center">👩‍💻 My Programming Language 👩‍💻</h2>
 
 <div align="center">
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/python.svg" alt="Python" />
@@ -60,6 +60,8 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
   <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/cloud.svg" alt="Cloud" />
   <img src="https://github.com/DevNoctis1001/github-badges/raw/main/svg/dev/misc/security.svg" alt="Security" />
 </div>
+
+<br><br>
     
 <h2 align='center'>🔥 Libraries and Frameworks 🔥</h2> 
 
@@ -77,6 +79,9 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
     <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black" alt="Hadoop" />
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="Spark" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white" alt="Elasticsearch" />
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
+    <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white" alt="MLflow" />
 </div>
 
 <h2 align='center'>🖥 Web Teck Stack 🖥</h2> 
