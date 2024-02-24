@@ -8,7 +8,7 @@
 <h1 align="center"> Passionate and Experienced Software Engineer </h1>
 <h2 align="center"> Data Science || AI & Machine Learning || Web & Mobile Development </h2> 
 
-<br><br>
+<br>
 
 <p align="left">Experienced data scientist with a history of working closely with cross-functional teams to guarantee the precision andreliability of data and insights. </p> 
 <p align="left">I love exploring new things in the software world. Finding patterns📈 in a world of extreme data and expressing them in beautiful graphics brings me joy. Proficient in spearheading predictive modeling projects and delivering practical insights toenhance business efficiency and achieve strategic objectives. Also, Developing smart and useful websites to provide people with an interactive experience of the internet is something I enjoy.  In the vast community of blockchain, I strive to create a more transparent and secure cryptocurrency space using data science technologies.⚖</p>
