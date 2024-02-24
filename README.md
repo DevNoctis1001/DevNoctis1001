@@ -48,7 +48,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 </div>
 
 
-<br>
+<br><br>
 
 <h2 align='center'>🏆 My Tech Skills 🏆</h2> 
 
