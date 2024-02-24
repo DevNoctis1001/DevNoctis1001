@@ -44,11 +44,14 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/html.svg" alt="HTML" />
+  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/css3.svg" alt="CSS3" />
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" height="700" style="display:inline;">
 
 <h3 align='left'> AI & Data Science Tech Stack </h3> 
+
+<img src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" width="50" height="50" alt="Machine Learning" />
 
 - Fields
 <div align="left">
