@@ -4,7 +4,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="16%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="16%" style="display:inline;">
   
-### 💪 &nbsp;About Me 
+## 💪 &nbsp;About Me 
 
 Passionate and Experienced Software Engineer || Data Science || AI & Machine Learning || Web & Mobile Development || Blockchain
 -----------------------------------------------------------------------------------------------------------------------------
@@ -39,16 +39,15 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center"> My Programing Language </h3>
+<h3 align="center"> My Programming Language </h3>
 
 <div align="center">
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/python.svg" alt="Python" />
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/r.svg" alt="R"  />
+  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/r.svg" alt="R"/>
+  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/html.svg" alt="HTML" />
-  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
-  
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="60" />
+  <img src="[https://techstack-generator.vercel.app/mysql-icon.svg](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL" />
 </div>
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" height="700" style="display:inline;">
