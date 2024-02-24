@@ -65,7 +65,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
     
 <h2 align='center'>🔥 Libraries and Frameworks 🔥</h2> 
 
-<div align="left">
+<div align="center">
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy"/>
     <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
