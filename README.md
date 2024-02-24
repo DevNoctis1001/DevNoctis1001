@@ -47,27 +47,30 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/css3.svg" alt="CSS3" />
 </div>
 
+
+
+<h2 align='center'>🏆 My Tech Skills 🏆</h2> 
+
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" height="700" style="display:inline;">
 
-<h2 align='center'>🏆 My Skills 🏆</h2> 
-
 <h3 align='left'>🌎 Data Collection & Cleaning </h3> 
-    <p align="left">Transforming raw data into valuable insights, ensuring pristine datasets for impactful analysis</p>
+    <p align="left">    Transforming raw data into valuable insights, ensuring pristine datasets for impactful analysis</p>
 
 <h3 align='left'>📈 Data Analysis </h3> 
-    <p align="left">Empowering insights through expert Data Analysis services, unlocking strategic value from raw data</p>
+    <p align="left">    Empowering insights through expert Data Analysis services, unlocking strategic value from raw data</p>
 
 <h3 align='left'>📊 Data Visualization </h3> 
-    <p align="left">Bringing data to life through captivating Data Visualization services, turning complex information into clear, actionable visuals </p>
+    <p align="left">    Bringing data to life through captivating Data Visualization services, turning complex information into clear, actionable visuals </p>
 
 <h3 align='left'> 🧿 Predictive Modeling </h3> 
-    <p align="left">Driving informed decisions with cutting-edge Predictive Modeling services, forecasting outcomes with precision and accuracy </p>
+    <p align="left">    Driving informed decisions with cutting-edge Predictive Modeling services, forecasting outcomes with precision and accuracy </p>
 
 <h3 align='left'> 🤖 Machine Learning & Deep Learning </h3> 
-    <p align="left">Revolutionizing data insights with innovative ML & DL services, enabling predictive analytics and intelligent decision-making </p>
+    <p align="left">    Revolutionizing data insights with innovative ML & DL services, enabling predictive analytics and intelligent decision-making </p>
 
 <h3 align='left'> 👨 Natural Language Processing </h3> 
-    <p align="left"> Empowering data-driven insights with advanced Natural Language Processing services, unraveling the power of language for impactful analysis </p>
+    <p align="left">    Empowering data-driven insights with advanced Natural Language Processing services, unraveling the power of language for impactful analysis </p>
+    
 - Fields
 <div align="left">
  <img src="https://cdn-icons-png.flaticon.com/128/9887/9887894.png" width="50" height="50" alt="Machine Learning" />
