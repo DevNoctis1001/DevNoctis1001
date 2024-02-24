@@ -57,7 +57,7 @@ Passionate and Experienced Software Engineer || Data Science || AI & Machine Lea
     <p align="left">    Transforming raw data into valuable insights, ensuring pristine datasets for impactful analysis</p>
 
 <h3 align='left'>📈 Data Analysis </h3> 
-    <p align="left">    Empowering insights through expert Data Analysis services, unlocking strategic value from raw data</p>
+    <p align="left" margin-left=20>    Empowering insights through expert Data Analysis services, unlocking strategic value from raw data</p>
 
 <h3 align='left'>📊 Data Visualization </h3> 
     <p align="left">    Bringing data to life through captivating Data Visualization services, turning complex information into clear, actionable visuals </p>
