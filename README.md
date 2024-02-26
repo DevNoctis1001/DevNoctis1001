@@ -23,7 +23,7 @@
 
 
  <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <h3>I love collaboration.</h3> 
  </div>
 
