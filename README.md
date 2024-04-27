@@ -8,7 +8,7 @@
 <h1 align="center"> Passionate and Experienced Software Engineer </h1>
  
 
-<h2 align="center"> Data Science || AI & Machine Learning || Web & Mobile </h2>
+<h2 align="center"> Data Science || AI & Machine Learning || Algorithmic Trading || Web & Mobile </h2>
 
 <br>
 
