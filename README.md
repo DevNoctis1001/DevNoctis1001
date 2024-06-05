@@ -44,6 +44,7 @@
 
 <div align="center">
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/python.svg" alt="Python" />
+  <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/csharp.svg" alt="C#"/>  
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/r.svg" alt="R"/>
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/rsoftware.svg" alt="Rscript" />
   <img src="https://github.com/DevNoctis1001/github-badges/blob/main/svg/dev/languages/js.svg" alt="Javascript" />
